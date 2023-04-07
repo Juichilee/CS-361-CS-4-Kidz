@@ -1,7 +1,7 @@
 # CS-4-Kidz
 A web app to help kids learn topics in computer science. 
 CS-4-Kidz is an early proof of concept with about 2 weeks of work, mainly on the front end. 
-It features a functional user sign-up, password encryption, and log-in feature. 
+It features a functional user sign-up, password encryption, a simple JSON database for storing user information, and log-in feature. 
 
 # How to clone this repo:
 1. Click on the green "Clone or download" button on the right
